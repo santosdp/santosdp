@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ## 🖖 Olá, meu nome é <strong>Daniel Pereira!</strong>
-<h3> Apaixonado por programação, tecnologia e suas aplicações em geral!</h3>
+<h3> Sou desenvolvedor full stack, sou viciado em café, amante de gatos e desenvolvimento de projetos inovadores.</h3>
 
-- 💻 Buscando conhecimento em tecnologias e aplicando para soluções inteligentes de software.
-- 🎓 Formando em **Tecnologia da Informação** pela <a href="https://www.wyden.com.br/">Faculdade Martha Falcão Wyden</a>.
-- 👨‍💻 Aperfeiçoando meus conhecimentos na <a href="https://www.alura.com.br/">Alura</a>.
-- 💼 Realizei freelances como **Desenvolvedor** no <a href="https://www.tjam.jus.br/">Tribunal de Justiça do Amazonas</a>
+- 💻 Gosto de trabalhar em projetos que facilitem e ajudem o dia a dia das pessoas.
+- 🎓 Formando em **Tecnologia da Informação**</a>.
+- 🤓 Entusiasta de novas tecnologias e novos desafios.
+- 💼 Desenvolvedor no Tribunal de Justiça do Amazonas.
 
 ## 🚀 Minhas Skills
 
