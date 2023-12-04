@@ -6,7 +6,7 @@
 - 💻 Buscando conhecimento em tecnologias e aplicando para soluções inteligentes de software.
 - 🎓 Formando em **Tecnologia da Informação** pela <a href="https://www.wyden.com.br/">Faculdade Martha Falcão Wyden</a>.
 - 👨‍💻 Aperfeiçoando meus conhecimentos na <a href="https://www.alura.com.br/">Alura</a>.
-- 💼 Realizei Freelances como **Desenvolvedor** no <a href="https://www.tjam.jus.br/">Tribunal de Justiça do Amazonas</a>
+- 💼 Realizei freelances como **Desenvolvedor** no <a href="https://www.tjam.jus.br/">Tribunal de Justiça do Amazonas</a>
 
 ## 🚀 Minhas Skills
 
